@@ -19,5 +19,5 @@ I attempted to put some ASCII art, but I wasn't that sure how to do it, and when
 
 My big loop was originally in the VirtualPetApplication, but Intellij kept giving me warnings about repetitive code, and to make a method, so that's what I did and created a method to handle the loop.
 
---test to using git :)
+--test to using git
 
