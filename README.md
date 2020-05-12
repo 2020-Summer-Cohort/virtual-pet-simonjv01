@@ -18,6 +18,9 @@ I created a tick() method to be enacted whenever the option of do nothing was ch
 I attempted to put some ASCII art, but I wasn't that sure how to do it, and when I tried, I started messing up code, so I thought it best to not try and do it.
 
 My big loop was originally in the VirtualPetApplication, but Intellij kept giving me warnings about repetitive code, and to make a method, so that's what I did and created a method to handle the loop.
+<<<<<<< HEAD
 
 --test to using git
 
+=======
+>>>>>>> bc2894a982a45daee6f8dc5b2dd79cf685ce139f
