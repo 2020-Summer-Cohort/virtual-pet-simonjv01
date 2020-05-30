@@ -74,47 +74,9 @@ public class VirtualPet {
             System.out.println("You fed " + petName);
             performActionOption1();
             actionDisplay();
-        } else if (actionOption.equals("1")) {
-            System.out.println("You fed " + petName);
-            performActionOption1();
-            actionDisplay();
-        } else if (actionOption.equals("1")) {
-            System.out.println("You fed " + petName);
-            performActionOption1();
-            actionDisplay();
-        } else if (actionOption.equals("1")) {
-            System.out.println("You fed " + petName);
-            performActionOption1();
-            actionDisplay();
         } else if (actionOption.equals("2")) {
             System.out.println("You gave water to " + petName);
             performActionOption2();
-            actionDisplay();
-        } else if (actionOption.equals("2")) {
-            System.out.println("You gave water to " + petName);
-            performActionOption2();
-            actionDisplay();
-        } else if (actionOption.equals("2")) {
-            System.out.println("You gave water to " + petName);
-            performActionOption2();
-            actionDisplay();
-
-        } else if (actionOption.equals("2")) {
-            System.out.println("You gave water to " + petName);
-            performActionOption2();
-            actionDisplay();
-        } else if (actionOption.equals("3")) {
-            System.out.println("You played with " + petName);
-            performActionOption3();
-            actionDisplay();
-        } else if (actionOption.equals("3")) {
-            System.out.println("You played with " + petName);
-            performActionOption3();
-            actionDisplay();
-
-        } else if (actionOption.equals("3")) {
-            System.out.println("You played with " + petName);
-            performActionOption3();
             actionDisplay();
         } else if (actionOption.equals("3")) {
             System.out.println("You played with " + petName);
@@ -123,20 +85,6 @@ public class VirtualPet {
         } else if (actionOption.equals("4")) {
             System.out.println("You took " + petName + " on a potty break");
             performActionOption4();
-            actionDisplay();
-        } else if (actionOption.equals("4")) {
-            System.out.println("You took " + petName + " on a potty break");
-            performActionOption4();
-            actionDisplay();
-
-        } else if (actionOption.equals("4")) {
-            System.out.println("You took " + petName + " on a potty break");
-            performActionOption4();
-            actionDisplay();
-        } else if (equals("4")) {
-            System.out.println("You took " + petName + " on a potty break");
-            performActionOption4();
-            actionDisplay();
         } else if (actionOption.equals("5")) {
             System.out.println("You did nothing with " + petName);
             tick();
